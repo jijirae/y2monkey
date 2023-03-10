@@ -10,6 +10,6 @@ A y2mate ViolentMonkey script.
 
 <h1>Installation</h1>
 
-Step 1. Install ![ViolentMonkey](https://violentmonkey.github.io/)
+Step 1. Install [ViolentMonkey](https://violentmonkey.github.io/)
 
 Step 2. [![install button](https://user-images.githubusercontent.com/122718637/224367664-f733a000-5211-4703-a50a-9e8ed9a920bf.png)](https://github.com/jijirae/y2monkey/raw/main/y2monkey.user.js)
