@@ -15,4 +15,5 @@ Step 1. Install [ViolentMonkey](https://violentmonkey.github.io/)
 Step 2. Click the button below.<br>[![install button](https://user-images.githubusercontent.com/122718637/224367664-f733a000-5211-4703-a50a-9e8ed9a920bf.png)](https://github.com/jijirae/y2monkey/raw/main/y2monkey.user.js)
 
 <h1>Disclaimer</h1>
-Please note that "y2monkey" is not affiliated, associated, endorsed, or sponsored by y2mate.com or Violetmonkey.
+
+<i>Please note that "y2monkey" is not affiliated, associated, endorsed, or sponsored by y2mate.com or Violetmonkey.</i>
