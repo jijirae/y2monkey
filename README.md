@@ -16,5 +16,5 @@ Step 2. Click the button below.<br>&emsp;[![button (2)](https://user-images.gith
 
 <h1>Disclaimer</h1>
 
-<i>Please note that "y2monkey" is not affiliated, associated, endorsed, or sponsored by y2mate.com or Violetmonkey.</i>
+<i>Please note that "y2monkey" is not affiliated, associated, endorsed, or sponsored by y2mate.com or Violentmonkey.</i>
 
