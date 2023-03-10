@@ -12,7 +12,7 @@ A y2mate Violentmonkey script.
 
 Step 1. Install [Violentmonkey](https://violentmonkey.github.io/)
 
-Step 2. Click the button below. [![button (2)](https://user-images.githubusercontent.com/122718637/224394210-9d68e112-4a54-4950-af31-a26b64488862.png)](https://github.com/jijirae/y2monkey/raw/main/y2monkey.user.js)
+Step 2. Click the button below.<br>&emsp;[![button (2)](https://user-images.githubusercontent.com/122718637/224394210-9d68e112-4a54-4950-af31-a26b64488862.png)](https://github.com/jijirae/y2monkey/raw/main/y2monkey.user.js)
 
 <h1>Disclaimer</h1>
 
