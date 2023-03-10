@@ -6,6 +6,7 @@
 // @author       jijirae
 // @match        https://www.youtube.com/*
 // @grant        none
+// @icon         https://i.imgur.com/z8zguyi.png
 // ==/UserScript==
 (function() {
     'use strict';
