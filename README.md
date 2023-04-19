@@ -6,7 +6,7 @@ A y2mate Violentmonkey script.
 ![header](https://user-images.githubusercontent.com/122718637/224312950-32ec5f16-b5ab-43a2-b91b-b79a074a2bbd.png)
 
 </div>
-<b>Press "SHIFT + D" on a YouTube video page to download it.</b>
+<b>Press "CTRL + SHIFT + D" on a YouTube video page to download it.</b>
 
 <h1>Installation</h1>
 
