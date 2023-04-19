@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         y2monkey
 // @namespace    https://github.com/jijirae/y2monkey
-// @version      1.1
+// @version      2
 // @description  Pressing "CTRL+SHIFT+D" opens the current YouTube video in y2mate, allowing you to download.
 // @author       jijirae
 // @match        https://www.youtube.com/*
