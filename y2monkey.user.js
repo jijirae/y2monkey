@@ -16,7 +16,7 @@
         if (event.ctrlKey && event.shiftKey && event.key === 'D') {
             event.preventDefault();
             let currentUrl = window.location.href;
-            let modifiedUrl = currentUrl.replace('youtube', 'youtubepp');
+            let modifiedUrl = currentUrl.replace('youtube.com/watch?v=', 'y2mate.com/youtube/');
             window.open(modifiedUrl, '_blank');
         }
     });
